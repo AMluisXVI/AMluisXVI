@@ -28,18 +28,18 @@ A collection of the tools and technologies I use to ensure software quality.
 | **Tools & Platforms**   | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> |
 
 ---
-
 ### 🚀 My Featured Projects
 
-Here are some of the projects I've worked on that showcase my skills.
+Here are some of the projects I've worked on that showcase my skills in Quality Assurance and Test Automation.
 
-| Project Name                                    | Description                                                                                                                                   | Technologies Used                               |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **Automated E-commerce Testing Framework**        | A comprehensive test automation framework built to validate critical user flows (login, search, cart, checkout) of a mock e-commerce website. | `Python`, `Selenium`, `Pytest`, `Page Object Model` |
-| **[➡️ View on GitHub]([link-a-tu-proyecto-1])**  |                                                                                                                                               |                                                 |
-| **API Test Suite for a Social Media App**         | A collection of automated tests for a REST API using Pytest and the 'requests' library to validate endpoints, schemas, and business logic.    | `Python`, `Pytest`, `Requests`, `JSON`          |
-| **[➡️ View on GitHub]([link-a-tu-proyecto-2])**  |                                                                                                                                               |                                                 |
-
+| Project Name | Description | Technologies & Methodologies Used |
+| :--- | :--- | :--- |
+| **Comprehensive QA for Urban Scooter** | A full-cycle manual testing project validating the functionality of the "Urban Scooter" application across its web, mobile, and API layers. Deliverables included detailed test cases, a requirement analysis mind map, SQL validation queries, and bug reports. | `Manual Testing`, `Test Case Design`, `SQL`, `Bug Reporting`, `Equivalence Partitioning`, `Boundary Value Analysis` |
+| **[➡️ View on GitHub]([your-repo-link-here-1])** | | |
+| **API Test Automation Suite for Urban Grocers** | An API test automation suite built to validate the "create kit" endpoint. It covers positive and negative scenarios, including data validation, boundary values, and authentication error handling, following a structured and maintainable framework. | `Python`, `Pytest`, `Requests`, `API Automation` |
+| **[➡️ View on GitHub]([your-repo-link-here-2])** | | |
+| **UI Test Automation Framework for Urban Routes** | A UI test automation framework built to validate the end-to-end user flow for ordering a taxi. The project implements the Page Object Model (POM) for maintainability and handles dynamic web elements using explicit waits. | `Python`, `Selenium`, `Pytest`, `Page Object Model (POM)` |
+| **[➡️ View on GitHub]([your-repo-link-here-3])** | | |
 ---
 
 ### 🤝 Let's Connect!
