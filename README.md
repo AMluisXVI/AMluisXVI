@@ -32,14 +32,12 @@ A collection of the tools and technologies I use to ensure software quality.
 
 Here are some of the projects I've worked on that showcase my skills in Quality Assurance and Test Automation.
 
-| Project Name | Description | Technologies & Methodologies Used |
+| 🚀 **Project Name** | 📝 **Description** | 🛠️ **Technologies & Methodologies Used** |
 | :--- | :--- | :--- |
-| **Comprehensive QA for Urban Scooter** | A full-cycle manual testing project validating the functionality of the "Urban Scooter" application across its web, mobile, and API layers. Deliverables included detailed test cases, a requirement analysis mind map, SQL validation queries, and bug reports. | `Manual Testing`, `Test Case Design`, `SQL`, `Bug Reporting`, `Equivalence Partitioning`, `Boundary Value Analysis` |
-| **[➡️ View on GitHub]([your-repo-link-here-1])** | | |
-| **API Test Automation Suite for Urban Grocers** | An API test automation suite built to validate the "create kit" endpoint. It covers positive and negative scenarios, including data validation, boundary values, and authentication error handling, following a structured and maintainable framework. | `Python`, `Pytest`, `Requests`, `API Automation` |
-| **[➡️ View on GitHub]([your-repo-link-here-2])** | | |
-| **UI Test Automation Framework for Urban Routes** | A UI test automation framework built to validate the end-to-end user flow for ordering a taxi. The project implements the Page Object Model (POM) for maintainability and handles dynamic web elements using explicit waits. | `Python`, `Selenium`, `Pytest`, `Page Object Model (POM)` |
-| **[➡️ View on GitHub]([your-repo-link-here-3])** | | |
+| **Comprehensive QA for Urban Scooter**<br/>[➡️ View on GitHub](https://github.com/AMluisXVI/urban-scooter-qa-project) | A full-cycle manual testing project validating the functionality of the **Urban Scooter** application across its web, mobile, and API layers. Deliverables included detailed test cases, a requirements analysis mind map, SQL validation queries, and bug reports. | `Manual Testing`, `Test Case Design`, `SQL`, `Bug Reporting`, `Equivalence Partitioning`, `Boundary Value Analysis` |
+| **API Test Automation Suite for Urban Grocers**<br/>[➡️ View on GitHub](https://github.com/AMluisXVI/API-Test-Automation-Suite-for-Urban-Grocers) | An API test automation suite built to validate the **create kit** endpoint. It covers positive and negative scenarios, including data validation, boundary values, and authentication error handling, following a structured and maintainable framework. | `Python`, `Pytest`, `Requests`, `API Automation` |
+| **UI Test Automation Framework for Urban Routes**<br/>[➡️ View on GitHub](https://github.com/AMluisXVI/UI-Test-Automation-Framework-for-Urban-Routes) | A UI test automation framework built to validate the end-to-end user flow for ordering a taxi. The project implements the Page Object Model (POM) for maintainability and handles dynamic web elements using explicit waits. | `Python`, `Selenium`, `Pytest`, `Page Object Model (POM)` |
+
 ---
 
 ### 🤝 Let's Connect!
