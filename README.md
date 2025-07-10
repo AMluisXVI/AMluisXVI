@@ -54,16 +54,15 @@ Here are some of the projects I've worked on that showcase my skills.
 | **API Test Suite for a Social Media App**         | A collection of automated tests for a REST API using Pytest and the 'requests' library to validate endpoints, schemas, and business logic.    | `Python`, `Pytest`, `Requests`, `JSON`          |
 | **[➡️ View on GitHub]([link-a-tu-proyecto-2])**  |                                                                                                                                               |                                                 |
 
----
+## 📊 My GitHub Stats
 
-### 📊 My GitHub Stats
+<div align="center">
+  <a href="https://github.com/amluis16">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amluis16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amluis16&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amluis16&show_icons=true&theme=vapor&hide_border=true&count_private=true" alt="Luis's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amluis16&layout=compact&theme=vapor&hide_border=true" alt="Luis's Top Languages" />
-</p>
-
----
 
 ### 🤝 Let's Connect!
 
